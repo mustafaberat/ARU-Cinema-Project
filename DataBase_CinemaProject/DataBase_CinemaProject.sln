@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase_CinemaProject", "DataBase_CinemaProject.csproj", "{6BCA0E73-2C92-43A1-BAA3-54477D498C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCA0E73-2C92-43A1-BAA3-54477D498C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCA0E73-2C92-43A1-BAA3-54477D498C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCA0E73-2C92-43A1-BAA3-54477D498C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCA0E73-2C92-43A1-BAA3-54477D498C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D33B971-ADB5-42BD-9FD0-6E88A1944120}
+	EndGlobalSection
+EndGlobal
